@@ -1,0 +1,5 @@
+X:\.vftdan\VftdanApp2\VftdanApp2\bin\Debug\VftdanApp2.exe
+X:\.vftdan\VftdanApp2\VftdanApp2\bin\Debug\VftdanApp2.pdb
+X:\.vftdan\VftdanApp2\VftdanApp2\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\.vftdan\VftdanApp2\VftdanApp2\obj\x86\Debug\VftdanApp2.exe
+X:\.vftdan\VftdanApp2\VftdanApp2\obj\x86\Debug\VftdanApp2.pdb
