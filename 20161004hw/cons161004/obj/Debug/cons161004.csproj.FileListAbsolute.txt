@@ -1,0 +1,6 @@
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\bin\Debug\cons161004.exe.config
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\bin\Debug\cons161004.exe
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\bin\Debug\cons161004.pdb
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\obj\Debug\cons161004.csprojResolveAssemblyReference.cache
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\obj\Debug\cons161004.exe
+c:\users\vftdan\documents\visual studio 2015\Projects\cons161004\cons161004\obj\Debug\cons161004.pdb
