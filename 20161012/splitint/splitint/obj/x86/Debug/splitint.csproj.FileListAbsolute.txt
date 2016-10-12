@@ -1,0 +1,5 @@
+X:\.vftdan\20161012\splitint\splitint\bin\Debug\splitint.exe
+X:\.vftdan\20161012\splitint\splitint\bin\Debug\splitint.pdb
+X:\.vftdan\20161012\splitint\splitint\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\.vftdan\20161012\splitint\splitint\obj\x86\Debug\splitint.exe
+X:\.vftdan\20161012\splitint\splitint\obj\x86\Debug\splitint.pdb

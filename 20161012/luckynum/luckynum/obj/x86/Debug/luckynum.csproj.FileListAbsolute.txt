@@ -1,0 +1,5 @@
+X:\.vftdan\20161012\luckynum\luckynum\bin\Debug\luckynum.exe
+X:\.vftdan\20161012\luckynum\luckynum\bin\Debug\luckynum.pdb
+X:\.vftdan\20161012\luckynum\luckynum\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\.vftdan\20161012\luckynum\luckynum\obj\x86\Debug\luckynum.exe
+X:\.vftdan\20161012\luckynum\luckynum\obj\x86\Debug\luckynum.pdb
